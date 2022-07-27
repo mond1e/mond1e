@@ -8,7 +8,6 @@ I'm a self-taught Data Analyst currently studying at Batangas State University -
 * 🎨 Graphic Designing
 
 ### 📬Connect with Me📬
-* [Twitter](https://twitter.com/KurtisPykes)
-* [LinkedIn](https://www.linkedin.com/in/kurtispykes/)
-* [Medium](https://kurtispykes.medium.com/)
-* [Instagram](https://www.instagram.com/kurtispykes/)
+* [Twitter](https://twitter.com/mondie111)
+* [LinkedIn](https://www.linkedin.com/in/jamondragon/)
+* [Instagram](https://www.facebook.com/mondie11)
