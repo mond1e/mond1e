@@ -1,9 +1,9 @@
 ### 👋Hi, I'm John Aron Mondragon
-I'm a self-taught Data Analyst currently studying at Batangas State University - Malvar. I have a keen interest in designing, building, and deploying machine learning applications, as well as writing. Outside of work, I enjoy... 
+I'm a self-taught Data Analyst currently studying at Batangas State University - Malvar. I have a keen interest in making data tell stories and uncover insights with real world implications. When I'm not doing Data Analysis work, I enjoy... 
 
-* ⚽ Playing Video Games
+* 🎮 Playing Video Games
 * 🏀 Playing Basketball
-* 💪 Exercise
+* 💪 Exercising
 * 📹 Video Editing
 * 🎨 Graphic Designing
 
