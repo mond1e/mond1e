@@ -10,4 +10,4 @@ I’m a self-taught Data Analyst currently studying at Batangas State University
 ### 📬Connect with Me📬
 * [Twitter](https://twitter.com/mondie111)
 * [LinkedIn](https://www.linkedin.com/in/jamondragon/)
-* [Instagram](https://www.facebook.com/mondie11)
+* [Facebook](https://www.facebook.com/mondie11)
